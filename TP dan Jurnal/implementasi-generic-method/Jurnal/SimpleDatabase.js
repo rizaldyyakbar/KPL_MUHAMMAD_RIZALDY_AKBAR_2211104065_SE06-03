@@ -18,7 +18,7 @@ class SimpleDataBase {
 
 // Contoh penggunaan:
 const db = new SimpleDataBase();
-db.addNewData(12);
-db.addNewData(34);
-db.addNewData(56);
+db.addNewData(21);
+db.addNewData(11);
+db.addNewData(65);
 db.printAllData();

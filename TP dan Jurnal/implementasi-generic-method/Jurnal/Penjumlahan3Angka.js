@@ -5,5 +5,5 @@ class Penjumlahan {
 }
 
 const penjumlahan = new Penjumlahan();
-const hasil = penjumlahan.jumlahTigaAngka(12, 34, 56);
+const hasil = penjumlahan.jumlahTigaAngka(21, 11, 65);
 console.log(`Hasil Penjumlahan: ${hasil}`);
