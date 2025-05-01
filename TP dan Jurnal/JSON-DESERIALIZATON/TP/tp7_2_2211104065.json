@@ -1,0 +1,16 @@
+{
+    "mata_kuliah": [
+        {
+            "kode": "SE101",
+            "nama": "Pemrograman Perangkat Bergerak"
+        },
+        {
+            "kode": "SE102",
+            "nama": "Konfigurasi Pernagkat Lunak"
+        },
+        {
+            "kode": "SE103",
+            "nama": "Software Defined Network"
+        }
+    ]
+}
