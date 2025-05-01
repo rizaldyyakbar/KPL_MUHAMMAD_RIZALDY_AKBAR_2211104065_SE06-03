@@ -1,0 +1,16 @@
+{
+    "Glossary": {
+        "GlossEntry": {
+            "ID": "SGML",
+            "SortAs": "SGML",
+            "GlossTerm": "Standard Generalized Markup Language",
+            "Acronym": "SGML",
+            "Abbrev": "ISO 8879:1986",
+            "Definition": "A meta-markup language used to create markup languages such as HTML and XML.",
+            "SeeAlso": [
+                "HTML",
+                "XML"
+            ]
+        }
+    }
+}
