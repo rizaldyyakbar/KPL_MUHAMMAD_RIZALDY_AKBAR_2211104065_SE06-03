@@ -1,0 +1,18 @@
+{
+    "Members": [
+        {
+            "NIM": "2211104065",
+            "Firstname": "Rizaldy",
+            "Lastname": "Akbar",
+            "Age": 20,
+            "Gender": "Male"
+        },
+        {
+            "NIM": "2211104070",
+            "Firstname": "Alya",
+            "Lastname": "Putri",
+            "Age": 20,
+            "Gender": "Female"
+        }
+    ]
+}
